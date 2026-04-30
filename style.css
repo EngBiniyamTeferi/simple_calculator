@@ -1,0 +1,136 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 350px;
+    width: 250px;
+    box-shadow: 6px 9px 15px black,
+    inset 6px 9px 15px black;
+}
+
+#store {
+    border: none;
+    padding-right: 10px;
+    direction: ltr;
+    text-align: right;
+    font-size: 1.5rem;
+    width: 90%;
+}
+.first_line {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+#seven {
+    width: calc(250px / 5);
+    margin: 5px;
+}
+#eight {
+    width: calc(250px / 5);
+    margin: 5px;
+}
+#nine {
+    width: calc(250px / 5);
+    margin: 5px;
+}
+#plus {
+    width: calc(250px / 5);
+    margin: 5px;
+}
+.second_line {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+#four {
+    width: calc(250px / 5);
+    margin: 5px;
+}
+#five {
+    width: calc(250px / 5);
+    margin: 5px;
+}
+#six {
+    width: calc(250px / 5);
+    margin: 5px;
+}
+#minus {
+    width: calc(250px / 5);
+    margin: 5px;
+}
+.third_line {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+#one {
+    width: calc(250px / 5);
+    margin: 5px;
+}
+#two {
+    width: calc(250px / 5);
+    margin: 5px;
+}
+#three {
+    width: calc(250px / 5);
+    margin: 5px;
+}
+#multiple {
+    width: calc(250px / 5);
+    margin: 5px;
+}
+.fourth_line {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    
+}
+
+#zero {
+    width: calc(250px / 5);
+    margin: 5px;
+}
+#c {
+    width: calc(250px / 5);
+    margin: 5px;
+}
+#division {
+    width: calc(250px / 5);
+    margin: 5px;
+}
+#multiple {
+    width: calc(250px / 5);
+    margin: 5px;
+}
+.fifth_line {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    
+}
+
+#equal {
+    width: 95%;
+}
